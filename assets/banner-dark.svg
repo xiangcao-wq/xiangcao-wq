@@ -1,0 +1,359 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="743" viewBox="0 0 1200 743" role="img" aria-label="Kaze. Hi, I&#x27;m Kaze. I build curious things with code and AI.">
+<style>
+.k{opacity:0;animation-duration:17.12s;animation-iteration-count:infinite;animation-timing-function:linear}
+.blink{animation:blink 1s step-end infinite}@keyframes blink{50%{opacity:0}}
+@keyframes k1{0%{opacity:0}2.038%{opacity:0}2.044%{opacity:1}22.190%{opacity:1}24.234%{opacity:0}100%{opacity:0}}
+@keyframes k2{0%{opacity:0}2.476%{opacity:0}2.482%{opacity:1}22.190%{opacity:1}24.234%{opacity:0}100%{opacity:0}}
+@keyframes k3{0%{opacity:0}2.914%{opacity:0}2.920%{opacity:1}22.190%{opacity:1}24.234%{opacity:0}100%{opacity:0}}
+@keyframes k4{0%{opacity:0}3.352%{opacity:0}3.358%{opacity:1}22.190%{opacity:1}24.234%{opacity:0}100%{opacity:0}}
+@keyframes k5{0%{opacity:0}3.790%{opacity:0}3.796%{opacity:1}22.190%{opacity:1}24.234%{opacity:0}100%{opacity:0}}
+@keyframes k6{0%{opacity:0}4.228%{opacity:0}4.234%{opacity:1}22.190%{opacity:1}24.234%{opacity:0}100%{opacity:0}}
+@keyframes k7{0%{opacity:0}4.666%{opacity:0}4.672%{opacity:1}22.190%{opacity:1}24.234%{opacity:0}100%{opacity:0}}
+@keyframes k8{0%{opacity:0}5.104%{opacity:0}5.109%{opacity:1}22.190%{opacity:1}24.234%{opacity:0}100%{opacity:0}}
+@keyframes k9{0%{opacity:0}5.542%{opacity:0}5.547%{opacity:1}22.190%{opacity:1}24.234%{opacity:0}100%{opacity:0}}
+@keyframes k10{0%{opacity:0}5.980%{opacity:0}5.985%{opacity:1}22.190%{opacity:1}24.234%{opacity:0}100%{opacity:0}}
+@keyframes k11{0%{opacity:0}6.418%{opacity:0}6.423%{opacity:1}22.190%{opacity:1}24.234%{opacity:0}100%{opacity:0}}
+@keyframes k12{0%{opacity:0}6.855%{opacity:0}6.861%{opacity:1}22.190%{opacity:1}24.234%{opacity:0}100%{opacity:0}}
+@keyframes k13{0%{opacity:0}7.293%{opacity:0}7.299%{opacity:1}22.190%{opacity:1}24.234%{opacity:0}100%{opacity:0}}
+@keyframes k14{0%{opacity:0}7.731%{opacity:0}7.737%{opacity:1}22.190%{opacity:1}24.234%{opacity:0}100%{opacity:0}}
+@keyframes k15{0%{opacity:0}8.169%{opacity:0}8.175%{opacity:1}22.190%{opacity:1}24.234%{opacity:0}100%{opacity:0}}
+@keyframes k16{0%{opacity:0}0.000%{opacity:1}2.038%{opacity:1}2.044%{opacity:0}100%{opacity:0}}
+@keyframes k17{0%{opacity:0}2.038%{opacity:0}2.044%{opacity:1}2.476%{opacity:1}2.482%{opacity:0}100%{opacity:0}}
+@keyframes k18{0%{opacity:0}2.476%{opacity:0}2.482%{opacity:1}2.914%{opacity:1}2.920%{opacity:0}100%{opacity:0}}
+@keyframes k19{0%{opacity:0}2.914%{opacity:0}2.920%{opacity:1}3.352%{opacity:1}3.358%{opacity:0}100%{opacity:0}}
+@keyframes k20{0%{opacity:0}3.352%{opacity:0}3.358%{opacity:1}3.790%{opacity:1}3.796%{opacity:0}100%{opacity:0}}
+@keyframes k21{0%{opacity:0}3.790%{opacity:0}3.796%{opacity:1}4.228%{opacity:1}4.234%{opacity:0}100%{opacity:0}}
+@keyframes k22{0%{opacity:0}4.228%{opacity:0}4.234%{opacity:1}4.666%{opacity:1}4.672%{opacity:0}100%{opacity:0}}
+@keyframes k23{0%{opacity:0}4.666%{opacity:0}4.672%{opacity:1}5.104%{opacity:1}5.109%{opacity:0}100%{opacity:0}}
+@keyframes k24{0%{opacity:0}5.104%{opacity:0}5.109%{opacity:1}5.542%{opacity:1}5.547%{opacity:0}100%{opacity:0}}
+@keyframes k25{0%{opacity:0}5.542%{opacity:0}5.547%{opacity:1}5.980%{opacity:1}5.985%{opacity:0}100%{opacity:0}}
+@keyframes k26{0%{opacity:0}5.980%{opacity:0}5.985%{opacity:1}6.418%{opacity:1}6.423%{opacity:0}100%{opacity:0}}
+@keyframes k27{0%{opacity:0}6.418%{opacity:0}6.423%{opacity:1}6.855%{opacity:1}6.861%{opacity:0}100%{opacity:0}}
+@keyframes k28{0%{opacity:0}6.855%{opacity:0}6.861%{opacity:1}7.293%{opacity:1}7.299%{opacity:0}100%{opacity:0}}
+@keyframes k29{0%{opacity:0}7.293%{opacity:0}7.299%{opacity:1}7.731%{opacity:1}7.737%{opacity:0}100%{opacity:0}}
+@keyframes k30{0%{opacity:0}7.731%{opacity:0}7.737%{opacity:1}8.169%{opacity:1}8.175%{opacity:0}100%{opacity:0}}
+@keyframes k31{0%{opacity:0}8.169%{opacity:0}8.175%{opacity:1}22.184%{opacity:1}22.190%{opacity:0}100%{opacity:0}}
+@keyframes k32{0%{opacity:0}28.023%{opacity:0}28.029%{opacity:1}45.547%{opacity:1}47.591%{opacity:0}100%{opacity:0}}
+@keyframes k33{0%{opacity:0}28.461%{opacity:0}28.467%{opacity:1}45.547%{opacity:1}47.591%{opacity:0}100%{opacity:0}}
+@keyframes k34{0%{opacity:0}28.899%{opacity:0}28.905%{opacity:1}45.547%{opacity:1}47.591%{opacity:0}100%{opacity:0}}
+@keyframes k35{0%{opacity:0}29.337%{opacity:0}29.343%{opacity:1}45.547%{opacity:1}47.591%{opacity:0}100%{opacity:0}}
+@keyframes k36{0%{opacity:0}29.775%{opacity:0}29.781%{opacity:1}45.547%{opacity:1}47.591%{opacity:0}100%{opacity:0}}
+@keyframes k37{0%{opacity:0}30.213%{opacity:0}30.219%{opacity:1}45.547%{opacity:1}47.591%{opacity:0}100%{opacity:0}}
+@keyframes k38{0%{opacity:0}30.651%{opacity:0}30.657%{opacity:1}45.547%{opacity:1}47.591%{opacity:0}100%{opacity:0}}
+@keyframes k39{0%{opacity:0}31.089%{opacity:0}31.095%{opacity:1}45.547%{opacity:1}47.591%{opacity:0}100%{opacity:0}}
+@keyframes k40{0%{opacity:0}31.527%{opacity:0}31.533%{opacity:1}45.547%{opacity:1}47.591%{opacity:0}100%{opacity:0}}
+@keyframes k41{0%{opacity:0}25.980%{opacity:0}25.985%{opacity:1}28.023%{opacity:1}28.029%{opacity:0}100%{opacity:0}}
+@keyframes k42{0%{opacity:0}28.023%{opacity:0}28.029%{opacity:1}28.461%{opacity:1}28.467%{opacity:0}100%{opacity:0}}
+@keyframes k43{0%{opacity:0}28.461%{opacity:0}28.467%{opacity:1}28.899%{opacity:1}28.905%{opacity:0}100%{opacity:0}}
+@keyframes k44{0%{opacity:0}28.899%{opacity:0}28.905%{opacity:1}29.337%{opacity:1}29.343%{opacity:0}100%{opacity:0}}
+@keyframes k45{0%{opacity:0}29.337%{opacity:0}29.343%{opacity:1}29.775%{opacity:1}29.781%{opacity:0}100%{opacity:0}}
+@keyframes k46{0%{opacity:0}29.775%{opacity:0}29.781%{opacity:1}30.213%{opacity:1}30.219%{opacity:0}100%{opacity:0}}
+@keyframes k47{0%{opacity:0}30.213%{opacity:0}30.219%{opacity:1}30.651%{opacity:1}30.657%{opacity:0}100%{opacity:0}}
+@keyframes k48{0%{opacity:0}30.651%{opacity:0}30.657%{opacity:1}31.089%{opacity:1}31.095%{opacity:0}100%{opacity:0}}
+@keyframes k49{0%{opacity:0}31.089%{opacity:0}31.095%{opacity:1}31.527%{opacity:1}31.533%{opacity:0}100%{opacity:0}}
+@keyframes k50{0%{opacity:0}31.527%{opacity:0}31.533%{opacity:1}45.542%{opacity:1}45.547%{opacity:0}100%{opacity:0}}
+@keyframes k51{0%{opacity:0}51.381%{opacity:0}51.387%{opacity:1}71.095%{opacity:1}73.139%{opacity:0}100%{opacity:0}}
+@keyframes k52{0%{opacity:0}51.819%{opacity:0}51.825%{opacity:1}71.095%{opacity:1}73.139%{opacity:0}100%{opacity:0}}
+@keyframes k53{0%{opacity:0}52.257%{opacity:0}52.263%{opacity:1}71.095%{opacity:1}73.139%{opacity:0}100%{opacity:0}}
+@keyframes k54{0%{opacity:0}52.695%{opacity:0}52.701%{opacity:1}71.095%{opacity:1}73.139%{opacity:0}100%{opacity:0}}
+@keyframes k55{0%{opacity:0}53.133%{opacity:0}53.139%{opacity:1}71.095%{opacity:1}73.139%{opacity:0}100%{opacity:0}}
+@keyframes k56{0%{opacity:0}53.571%{opacity:0}53.577%{opacity:1}71.095%{opacity:1}73.139%{opacity:0}100%{opacity:0}}
+@keyframes k57{0%{opacity:0}54.009%{opacity:0}54.015%{opacity:1}71.095%{opacity:1}73.139%{opacity:0}100%{opacity:0}}
+@keyframes k58{0%{opacity:0}54.447%{opacity:0}54.453%{opacity:1}71.095%{opacity:1}73.139%{opacity:0}100%{opacity:0}}
+@keyframes k59{0%{opacity:0}54.885%{opacity:0}54.891%{opacity:1}71.095%{opacity:1}73.139%{opacity:0}100%{opacity:0}}
+@keyframes k60{0%{opacity:0}55.323%{opacity:0}55.328%{opacity:1}71.095%{opacity:1}73.139%{opacity:0}100%{opacity:0}}
+@keyframes k61{0%{opacity:0}55.761%{opacity:0}55.766%{opacity:1}71.095%{opacity:1}73.139%{opacity:0}100%{opacity:0}}
+@keyframes k62{0%{opacity:0}56.199%{opacity:0}56.204%{opacity:1}71.095%{opacity:1}73.139%{opacity:0}100%{opacity:0}}
+@keyframes k63{0%{opacity:0}56.636%{opacity:0}56.642%{opacity:1}71.095%{opacity:1}73.139%{opacity:0}100%{opacity:0}}
+@keyframes k64{0%{opacity:0}57.074%{opacity:0}57.080%{opacity:1}71.095%{opacity:1}73.139%{opacity:0}100%{opacity:0}}
+@keyframes k65{0%{opacity:0}49.337%{opacity:0}49.343%{opacity:1}51.381%{opacity:1}51.387%{opacity:0}100%{opacity:0}}
+@keyframes k66{0%{opacity:0}51.381%{opacity:0}51.387%{opacity:1}51.819%{opacity:1}51.825%{opacity:0}100%{opacity:0}}
+@keyframes k67{0%{opacity:0}51.819%{opacity:0}51.825%{opacity:1}52.257%{opacity:1}52.263%{opacity:0}100%{opacity:0}}
+@keyframes k68{0%{opacity:0}52.257%{opacity:0}52.263%{opacity:1}52.695%{opacity:1}52.701%{opacity:0}100%{opacity:0}}
+@keyframes k69{0%{opacity:0}52.695%{opacity:0}52.701%{opacity:1}53.133%{opacity:1}53.139%{opacity:0}100%{opacity:0}}
+@keyframes k70{0%{opacity:0}53.133%{opacity:0}53.139%{opacity:1}53.571%{opacity:1}53.577%{opacity:0}100%{opacity:0}}
+@keyframes k71{0%{opacity:0}53.571%{opacity:0}53.577%{opacity:1}54.009%{opacity:1}54.015%{opacity:0}100%{opacity:0}}
+@keyframes k72{0%{opacity:0}54.009%{opacity:0}54.015%{opacity:1}54.447%{opacity:1}54.453%{opacity:0}100%{opacity:0}}
+@keyframes k73{0%{opacity:0}54.447%{opacity:0}54.453%{opacity:1}54.885%{opacity:1}54.891%{opacity:0}100%{opacity:0}}
+@keyframes k74{0%{opacity:0}54.885%{opacity:0}54.891%{opacity:1}55.323%{opacity:1}55.328%{opacity:0}100%{opacity:0}}
+@keyframes k75{0%{opacity:0}55.323%{opacity:0}55.328%{opacity:1}55.761%{opacity:1}55.766%{opacity:0}100%{opacity:0}}
+@keyframes k76{0%{opacity:0}55.761%{opacity:0}55.766%{opacity:1}56.199%{opacity:1}56.204%{opacity:0}100%{opacity:0}}
+@keyframes k77{0%{opacity:0}56.199%{opacity:0}56.204%{opacity:1}56.636%{opacity:1}56.642%{opacity:0}100%{opacity:0}}
+@keyframes k78{0%{opacity:0}56.636%{opacity:0}56.642%{opacity:1}57.074%{opacity:1}57.080%{opacity:0}100%{opacity:0}}
+@keyframes k79{0%{opacity:0}57.074%{opacity:0}57.080%{opacity:1}71.089%{opacity:1}71.095%{opacity:0}100%{opacity:0}}
+@keyframes k80{0%{opacity:0}76.928%{opacity:0}76.934%{opacity:1}96.204%{opacity:1}98.248%{opacity:0}100%{opacity:0}}
+@keyframes k81{0%{opacity:0}77.366%{opacity:0}77.372%{opacity:1}96.204%{opacity:1}98.248%{opacity:0}100%{opacity:0}}
+@keyframes k82{0%{opacity:0}77.804%{opacity:0}77.810%{opacity:1}96.204%{opacity:1}98.248%{opacity:0}100%{opacity:0}}
+@keyframes k83{0%{opacity:0}78.242%{opacity:0}78.248%{opacity:1}96.204%{opacity:1}98.248%{opacity:0}100%{opacity:0}}
+@keyframes k84{0%{opacity:0}78.680%{opacity:0}78.686%{opacity:1}96.204%{opacity:1}98.248%{opacity:0}100%{opacity:0}}
+@keyframes k85{0%{opacity:0}79.118%{opacity:0}79.124%{opacity:1}96.204%{opacity:1}98.248%{opacity:0}100%{opacity:0}}
+@keyframes k86{0%{opacity:0}79.556%{opacity:0}79.562%{opacity:1}96.204%{opacity:1}98.248%{opacity:0}100%{opacity:0}}
+@keyframes k87{0%{opacity:0}79.994%{opacity:0}80.000%{opacity:1}96.204%{opacity:1}98.248%{opacity:0}100%{opacity:0}}
+@keyframes k88{0%{opacity:0}80.432%{opacity:0}80.438%{opacity:1}96.204%{opacity:1}98.248%{opacity:0}100%{opacity:0}}
+@keyframes k89{0%{opacity:0}80.870%{opacity:0}80.876%{opacity:1}96.204%{opacity:1}98.248%{opacity:0}100%{opacity:0}}
+@keyframes k90{0%{opacity:0}81.308%{opacity:0}81.314%{opacity:1}96.204%{opacity:1}98.248%{opacity:0}100%{opacity:0}}
+@keyframes k91{0%{opacity:0}81.746%{opacity:0}81.752%{opacity:1}96.204%{opacity:1}98.248%{opacity:0}100%{opacity:0}}
+@keyframes k92{0%{opacity:0}82.184%{opacity:0}82.190%{opacity:1}96.204%{opacity:1}98.248%{opacity:0}100%{opacity:0}}
+@keyframes k93{0%{opacity:0}74.885%{opacity:0}74.891%{opacity:1}76.928%{opacity:1}76.934%{opacity:0}100%{opacity:0}}
+@keyframes k94{0%{opacity:0}76.928%{opacity:0}76.934%{opacity:1}77.366%{opacity:1}77.372%{opacity:0}100%{opacity:0}}
+@keyframes k95{0%{opacity:0}77.366%{opacity:0}77.372%{opacity:1}77.804%{opacity:1}77.810%{opacity:0}100%{opacity:0}}
+@keyframes k96{0%{opacity:0}77.804%{opacity:0}77.810%{opacity:1}78.242%{opacity:1}78.248%{opacity:0}100%{opacity:0}}
+@keyframes k97{0%{opacity:0}78.242%{opacity:0}78.248%{opacity:1}78.680%{opacity:1}78.686%{opacity:0}100%{opacity:0}}
+@keyframes k98{0%{opacity:0}78.680%{opacity:0}78.686%{opacity:1}79.118%{opacity:1}79.124%{opacity:0}100%{opacity:0}}
+@keyframes k99{0%{opacity:0}79.118%{opacity:0}79.124%{opacity:1}79.556%{opacity:1}79.562%{opacity:0}100%{opacity:0}}
+@keyframes k100{0%{opacity:0}79.556%{opacity:0}79.562%{opacity:1}79.994%{opacity:1}80.000%{opacity:0}100%{opacity:0}}
+@keyframes k101{0%{opacity:0}79.994%{opacity:0}80.000%{opacity:1}80.432%{opacity:1}80.438%{opacity:0}100%{opacity:0}}
+@keyframes k102{0%{opacity:0}80.432%{opacity:0}80.438%{opacity:1}80.870%{opacity:1}80.876%{opacity:0}100%{opacity:0}}
+@keyframes k103{0%{opacity:0}80.870%{opacity:0}80.876%{opacity:1}81.308%{opacity:1}81.314%{opacity:0}100%{opacity:0}}
+@keyframes k104{0%{opacity:0}81.308%{opacity:0}81.314%{opacity:1}81.746%{opacity:1}81.752%{opacity:0}100%{opacity:0}}
+@keyframes k105{0%{opacity:0}81.746%{opacity:0}81.752%{opacity:1}82.184%{opacity:1}82.190%{opacity:0}100%{opacity:0}}
+@keyframes k106{0%{opacity:0}82.184%{opacity:0}82.190%{opacity:1}96.199%{opacity:1}96.204%{opacity:0}100%{opacity:0}}
+@media (prefers-reduced-motion: reduce){.k,.blink{animation:none}[data-l="0"]{opacity:1}}
+</style>
+<defs><clipPath id="clip"><rect width="1200" height="743" rx="16"/></clipPath></defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="743" fill="#161B22"/>
+<path d="M0 0h48a48 48 0 0 1 -48 48z" fill="#EDEBE6"/>
+<path d="M48 0h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(90 72.0 24.0)"/>
+<circle cx="120.0" cy="24.0" r="14.4" fill="#FFA657"/>
+<path d="M192 0h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(270 216.0 24.0)"/>
+<path d="M240 48a24.0 24.0 0 0 1 48 0z" fill="#EDEBE6"/>
+<path d="M288 0h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(270 312.0 24.0)"/>
+<path d="M336 48a24.0 24.0 0 0 1 48 0z" fill="#EDEBE6" transform="rotate(90 360.0 24.0)"/>
+<path d="M384 0h48a48 48 0 0 1 -48 48z" fill="#A371F7"/>
+<path d="M480 48a24.0 24.0 0 0 1 48 0z" fill="#EDEBE6" transform="rotate(180 504.0 24.0)"/>
+<circle cx="552.0" cy="24.0" r="13.0" fill="none" stroke="#EDEBE6" stroke-width="6"/>
+<path d="M576 0h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(270 600.0 24.0)"/>
+<circle cx="648.0" cy="24.0" r="14.4" fill="#EDEBE6"/>
+<circle cx="696.0" cy="24.0" r="14.4" fill="#EDEBE6"/>
+<path d="M720 0h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(180 744.0 24.0)"/>
+<circle cx="888.0" cy="24.0" r="14.4" fill="#EDEBE6"/>
+<path d="M912 0h48a48 48 0 0 1 -48 48z" fill="#A371F7"/>
+<path d="M960 48a24.0 24.0 0 0 1 48 0z" fill="#A371F7" transform="rotate(180 984.0 24.0)"/>
+<path d="M1008 0h48a48 48 0 0 1 -48 48z" fill="#FFA657" transform="rotate(180 1032.0 24.0)"/>
+<path d="M1056 0h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(180 1080.0 24.0)"/>
+<path d="M1104 0h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(270 1128.0 24.0)"/>
+<path d="M1152 0h48a48 48 0 0 1 -48 48z" fill="#FFA657"/>
+<circle cx="72.0" cy="72.0" r="14.4" fill="#EDEBE6"/>
+<path d="M96 48h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(90 120.0 72.0)"/>
+<path d="M144 48h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(270 168.0 72.0)"/>
+<circle cx="216.0" cy="72.0" r="14.4" fill="#EDEBE6"/>
+<circle cx="312.0" cy="72.0" r="14.4" fill="#EDEBE6"/>
+<path d="M336 96a24.0 24.0 0 0 1 48 0z" fill="#EDEBE6"/>
+<path d="M384 96a24.0 24.0 0 0 1 48 0z" fill="#EDEBE6" transform="rotate(90 408.0 72.0)"/>
+<circle cx="456.0" cy="72.0" r="14.4" fill="#EDEBE6"/>
+<circle cx="504.0" cy="72.0" r="13.0" fill="none" stroke="#A371F7" stroke-width="6"/>
+<path d="M528 48h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(270 552.0 72.0)"/>
+<circle cx="600.0" cy="72.0" r="13.0" fill="none" stroke="#EDEBE6" stroke-width="6"/>
+<path d="M624 96a24.0 24.0 0 0 1 48 0z" fill="#EDEBE6" transform="rotate(90 648.0 72.0)"/>
+<path d="M672 48h48a48 48 0 0 1 -48 48z" fill="#A371F7" transform="rotate(270 696.0 72.0)"/>
+<path d="M720 96a24.0 24.0 0 0 1 48 0z" fill="#EDEBE6" transform="rotate(180 744.0 72.0)"/>
+<path d="M768 48h48a48 48 0 0 1 -48 48z" fill="#A371F7" transform="rotate(270 792.0 72.0)"/>
+<path d="M864 48h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(180 888.0 72.0)"/>
+<circle cx="936.0" cy="72.0" r="14.4" fill="#EDEBE6"/>
+<path d="M960 96a24.0 24.0 0 0 1 48 0z" fill="#EDEBE6" transform="rotate(180 984.0 72.0)"/>
+<path d="M1008 48h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(180 1032.0 72.0)"/>
+<path d="M1056 48h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(180 1080.0 72.0)"/>
+<path d="M1104 48h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(90 1128.0 72.0)"/>
+<path d="M1152 48h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(180 1176.0 72.0)"/>
+<path d="M48 144a24.0 24.0 0 0 1 48 0z" fill="#EDEBE6" transform="rotate(90 72.0 120.0)"/>
+<path d="M96 96h48a48 48 0 0 1 -48 48z" fill="#A371F7" transform="rotate(90 120.0 120.0)"/>
+<path d="M144 96h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(270 168.0 120.0)"/>
+<path d="M192 144a24.0 24.0 0 0 1 48 0z" fill="#EDEBE6" transform="rotate(180 216.0 120.0)"/>
+<circle cx="264.0" cy="120.0" r="13.0" fill="none" stroke="#FFA657" stroke-width="6"/>
+<circle cx="312.0" cy="120.0" r="14.4" fill="#EDEBE6"/>
+<path d="M336 96h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(90 360.0 120.0)"/>
+<path d="M384 144a24.0 24.0 0 0 1 48 0z" fill="#EDEBE6" transform="rotate(180 408.0 120.0)"/>
+<path d="M432 96h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(90 456.0 120.0)"/>
+<path d="M528 96h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(270 552.0 120.0)"/>
+<circle cx="600.0" cy="120.0" r="14.4" fill="#EDEBE6"/>
+<path d="M624 96h48a48 48 0 0 1 -48 48z" fill="#FFA657" transform="rotate(90 648.0 120.0)"/>
+<path d="M672 144a24.0 24.0 0 0 1 48 0z" fill="#EDEBE6"/>
+<path d="M720 96h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(90 744.0 120.0)"/>
+<circle cx="792.0" cy="120.0" r="14.4" fill="#EDEBE6"/>
+<circle cx="840.0" cy="120.0" r="14.4" fill="#FFA657"/>
+<path d="M864 96h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(270 888.0 120.0)"/>
+<path d="M912 96h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(90 936.0 120.0)"/>
+<path d="M960 96h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(90 984.0 120.0)"/>
+<path d="M1104 96h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(180 1128.0 120.0)"/>
+<path d="M1152 96h48a48 48 0 0 1 -48 48z" fill="#EDEBE6"/>
+<path d="M0 144h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(180 24.0 168.0)"/>
+<circle cx="72.0" cy="168.0" r="13.0" fill="none" stroke="#EDEBE6" stroke-width="6"/>
+<path d="M240 144h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(90 264.0 168.0)"/>
+<path d="M288 144h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(90 312.0 168.0)"/>
+<path d="M336 144h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(270 360.0 168.0)"/>
+<path d="M384 144h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(270 408.0 168.0)"/>
+<circle cx="504.0" cy="168.0" r="14.4" fill="#EDEBE6"/>
+<path d="M576 144h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(270 600.0 168.0)"/>
+<circle cx="648.0" cy="168.0" r="14.4" fill="#EDEBE6"/>
+<path d="M672 192a24.0 24.0 0 0 1 48 0z" fill="#EDEBE6" transform="rotate(90 696.0 168.0)"/>
+<path d="M720 144h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(90 744.0 168.0)"/>
+<path d="M768 144h48a48 48 0 0 1 -48 48z" fill="#EDEBE6"/>
+<circle cx="840.0" cy="168.0" r="13.0" fill="none" stroke="#EDEBE6" stroke-width="6"/>
+<path d="M864 192a24.0 24.0 0 0 1 48 0z" fill="#EDEBE6"/>
+<path d="M912 192a24.0 24.0 0 0 1 48 0z" fill="#A371F7" transform="rotate(180 936.0 168.0)"/>
+<path d="M960 144h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(90 984.0 168.0)"/>
+<circle cx="1032.0" cy="168.0" r="14.4" fill="#EDEBE6"/>
+<path d="M1056 144h48a48 48 0 0 1 -48 48z" fill="#A371F7" transform="rotate(180 1080.0 168.0)"/>
+<circle cx="1128.0" cy="168.0" r="14.4" fill="#EDEBE6"/>
+<path d="M1152 144h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(270 1176.0 168.0)"/>
+<path d="M48 192h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(90 72.0 216.0)"/>
+<path d="M96 240a24.0 24.0 0 0 1 48 0z" fill="#EDEBE6" transform="rotate(90 120.0 216.0)"/>
+<path d="M144 192h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(180 168.0 216.0)"/>
+<circle cx="216.0" cy="216.0" r="14.4" fill="#A371F7"/>
+<path d="M240 192h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(90 264.0 216.0)"/>
+<circle cx="312.0" cy="216.0" r="14.4" fill="#EDEBE6"/>
+<path d="M336 192h48a48 48 0 0 1 -48 48z" fill="#A371F7" transform="rotate(270 360.0 216.0)"/>
+<circle cx="408.0" cy="216.0" r="13.0" fill="none" stroke="#EDEBE6" stroke-width="6"/>
+<circle cx="456.0" cy="216.0" r="14.4" fill="#EDEBE6"/>
+<path d="M480 192h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(180 504.0 216.0)"/>
+<path d="M576 192h48a48 48 0 0 1 -48 48z" fill="#A371F7"/>
+<path d="M624 192h48a48 48 0 0 1 -48 48z" fill="#EDEBE6"/>
+<path d="M672 192h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(180 696.0 216.0)"/>
+<circle cx="792.0" cy="216.0" r="14.4" fill="#EDEBE6"/>
+<path d="M816 192h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(90 840.0 216.0)"/>
+<path d="M912 192h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(270 936.0 216.0)"/>
+<path d="M960 192h48a48 48 0 0 1 -48 48z" fill="#FFA657" transform="rotate(180 984.0 216.0)"/>
+<circle cx="1032.0" cy="216.0" r="13.0" fill="none" stroke="#EDEBE6" stroke-width="6"/>
+<path d="M1056 240a24.0 24.0 0 0 1 48 0z" fill="#EDEBE6" transform="rotate(180 1080.0 216.0)"/>
+<path d="M1104 192h48a48 48 0 0 1 -48 48z" fill="#FFA657"/>
+<path d="M0 240h48a48 48 0 0 1 -48 48z" fill="#A371F7" transform="rotate(90 24.0 264.0)"/>
+<path d="M96 240h48a48 48 0 0 1 -48 48z" fill="#EDEBE6"/>
+<path d="M144 240h48a48 48 0 0 1 -48 48z" fill="#EDEBE6"/>
+<path d="M192 240h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(270 216.0 264.0)"/>
+<path d="M240 240h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(270 264.0 264.0)"/>
+<path d="M288 240h48a48 48 0 0 1 -48 48z" fill="#EDEBE6"/>
+<path d="M336 240h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(180 360.0 264.0)"/>
+<path d="M384 240h48a48 48 0 0 1 -48 48z" fill="#A371F7"/>
+<path d="M432 240h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(90 456.0 264.0)"/>
+<circle cx="504.0" cy="264.0" r="14.4" fill="#EDEBE6"/>
+<path d="M528 240h48a48 48 0 0 1 -48 48z" fill="#A371F7" transform="rotate(90 552.0 264.0)"/>
+<path d="M576 240h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(180 600.0 264.0)"/>
+<circle cx="648.0" cy="264.0" r="13.0" fill="none" stroke="#FFA657" stroke-width="6"/>
+<path d="M672 240h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(180 696.0 264.0)"/>
+<circle cx="744.0" cy="264.0" r="14.4" fill="#EDEBE6"/>
+<circle cx="792.0" cy="264.0" r="13.0" fill="none" stroke="#EDEBE6" stroke-width="6"/>
+<path d="M816 240h48a48 48 0 0 1 -48 48z" fill="#FFA657" transform="rotate(90 840.0 264.0)"/>
+<circle cx="888.0" cy="264.0" r="13.0" fill="none" stroke="#EDEBE6" stroke-width="6"/>
+<path d="M960 240h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(90 984.0 264.0)"/>
+<circle cx="1032.0" cy="264.0" r="14.4" fill="#FFA657"/>
+<path d="M1056 240h48a48 48 0 0 1 -48 48z" fill="#EDEBE6" transform="rotate(270 1080.0 264.0)"/>
+<path d="M1152 288a24.0 24.0 0 0 1 48 0z" fill="#EDEBE6" transform="rotate(270 1176.0 264.0)"/>
+<line x1="0" y1="288" x2="1200" y2="288" stroke="#30363D"/>
+</g>
+<text x="52" y="413" font-family="-apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, &#x27;Noto Sans&#x27;, Helvetica, Arial, sans-serif" font-size="112" font-weight="800" letter-spacing="-3.4" fill="#F0F6FC">Kaze</text>
+<text x="56" y="457" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="20" fill="#8B949E">creative developer · software, AI &amp; robotics</text>
+<line x1="56" y1="491" x2="1144" y2="491" stroke="#30363D" stroke-dasharray="5 5"/>
+<text x="56" y="531" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="13" letter-spacing="1.4" fill="#8B949E">COMPLETION · STREAMING</text>
+<text x="1144" y="531" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="13" letter-spacing="1.4" fill="#8B949E" text-anchor="end">4 SAMPLES · LOOPING</text>
+<g class="k" style="animation-name:k1" data-l="0"><rect x="56" y="553" width="50.8" height="46" rx="6" fill="rgba(121,192,255,0.20)"/><text x="61.0" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="40.8" lengthAdjust="spacingAndGlyphs">Hi</text></g>
+<g class="k" style="animation-name:k2" data-l="0"><rect x="109.8" y="553" width="30.4" height="46" rx="6" fill="rgba(255,166,87,0.20)"/><text x="114.8" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="20.4" lengthAdjust="spacingAndGlyphs">,</text></g>
+<g class="k" style="animation-name:k3" data-l="0"><rect x="143.2" y="553" width="50.8" height="46" rx="6" fill="rgba(126,231,135,0.20)"/><text x="168.6" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="20.4" lengthAdjust="spacingAndGlyphs">I</text></g>
+<g class="k" style="animation-name:k4" data-l="0"><rect x="197.0" y="553" width="50.8" height="46" rx="6" fill="rgba(210,168,255,0.22)"/><text x="202.0" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="40.8" lengthAdjust="spacingAndGlyphs">&#x27;m</text></g>
+<g class="k" style="animation-name:k5" data-l="0"><rect x="250.8" y="553" width="112.0" height="46" rx="6" fill="rgba(255,123,114,0.20)"/><text x="276.2" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="81.6" lengthAdjust="spacingAndGlyphs">Kaze</text></g>
+<g class="k" style="animation-name:k6" data-l="0"><rect x="365.8" y="553" width="30.4" height="46" rx="6" fill="rgba(121,192,255,0.20)"/><text x="370.8" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="20.4" lengthAdjust="spacingAndGlyphs">.</text></g>
+<g class="k" style="animation-name:k7" data-l="0"><rect x="399.2" y="553" width="50.8" height="46" rx="6" fill="rgba(255,166,87,0.20)"/><text x="424.6" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="20.4" lengthAdjust="spacingAndGlyphs">I</text></g>
+<g class="k" style="animation-name:k8" data-l="0"><rect x="453.0" y="553" width="132.39999999999998" height="46" rx="6" fill="rgba(126,231,135,0.20)"/><text x="478.4" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="102.0" lengthAdjust="spacingAndGlyphs">build</text></g>
+<g class="k" style="animation-name:k9" data-l="0"><rect x="588.4" y="553" width="173.2" height="46" rx="6" fill="rgba(210,168,255,0.22)"/><text x="613.8" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="142.8" lengthAdjust="spacingAndGlyphs">curious</text></g>
+<g class="k" style="animation-name:k10" data-l="0"><rect x="764.5999999999999" y="553" width="152.79999999999998" height="46" rx="6" fill="rgba(255,123,114,0.20)"/><text x="790.0" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="122.4" lengthAdjust="spacingAndGlyphs">things</text></g>
+<g class="k" style="animation-name:k11" data-l="0"><rect x="920.3999999999999" y="553" width="112.0" height="46" rx="6" fill="rgba(121,192,255,0.20)"/><text x="945.8" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="81.6" lengthAdjust="spacingAndGlyphs">with</text></g>
+<g class="k" style="animation-name:k12" data-l="0"><rect x="56" y="613" width="112.0" height="46" rx="6" fill="rgba(255,166,87,0.20)"/><text x="81.4" y="647" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="81.6" lengthAdjust="spacingAndGlyphs">code</text></g>
+<g class="k" style="animation-name:k13" data-l="0"><rect x="171.0" y="613" width="91.6" height="46" rx="6" fill="rgba(126,231,135,0.20)"/><text x="196.4" y="647" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="61.2" lengthAdjust="spacingAndGlyphs">and</text></g>
+<g class="k" style="animation-name:k14" data-l="0"><rect x="265.6" y="613" width="71.19999999999999" height="46" rx="6" fill="rgba(210,168,255,0.22)"/><text x="291.0" y="647" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="40.8" lengthAdjust="spacingAndGlyphs">AI</text></g>
+<g class="k" style="animation-name:k15" data-l="0"><rect x="339.8" y="613" width="30.4" height="46" rx="6" fill="rgba(255,123,114,0.20)"/><text x="344.8" y="647" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="20.4" lengthAdjust="spacingAndGlyphs">.</text></g>
+<g class="k" style="animation-name:k16" data-c="0"><rect x="58" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k17" data-c="0"><rect x="108.8" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k18" data-c="0"><rect x="142.2" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k19" data-c="0"><rect x="196.0" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k20" data-c="0"><rect x="249.8" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k21" data-c="0"><rect x="364.8" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k22" data-c="0"><rect x="398.2" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k23" data-c="0"><rect x="452.0" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k24" data-c="0"><rect x="587.4" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k25" data-c="0"><rect x="763.5999999999999" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k26" data-c="0"><rect x="919.3999999999999" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k27" data-c="0"><rect x="1034.3999999999999" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k28" data-c="0"><rect x="170.0" y="617" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k29" data-c="0"><rect x="264.6" y="617" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k30" data-c="0"><rect x="338.8" y="617" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k31" data-c="0"><g class="blink"><rect x="375.2" y="617" width="18" height="38" fill="#FFA657"/></g></g>
+<g class="k" style="animation-name:k32" data-l="1"><rect x="56" y="553" width="173.2" height="46" rx="6" fill="rgba(255,166,87,0.20)"/><text x="61.0" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="163.2" lengthAdjust="spacingAndGlyphs">Computer</text></g>
+<g class="k" style="animation-name:k33" data-l="1"><rect x="232.2" y="553" width="173.2" height="46" rx="6" fill="rgba(126,231,135,0.20)"/><text x="257.6" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="142.8" lengthAdjust="spacingAndGlyphs">science</text></g>
+<g class="k" style="animation-name:k34" data-l="1"><rect x="408.4" y="553" width="173.2" height="46" rx="6" fill="rgba(210,168,255,0.22)"/><text x="433.8" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="142.8" lengthAdjust="spacingAndGlyphs">student</text></g>
+<g class="k" style="animation-name:k35" data-l="1"><rect x="584.5999999999999" y="553" width="30.4" height="46" rx="6" fill="rgba(255,123,114,0.20)"/><text x="589.6" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="20.4" lengthAdjust="spacingAndGlyphs">,</text></g>
+<g class="k" style="animation-name:k36" data-l="1"><rect x="617.9999999999999" y="553" width="214.0" height="46" rx="6" fill="rgba(121,192,255,0.20)"/><text x="643.4" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="183.6" lengthAdjust="spacingAndGlyphs">exploring</text></g>
+<g class="k" style="animation-name:k37" data-l="1"><rect x="834.9999999999999" y="553" width="193.6" height="46" rx="6" fill="rgba(255,166,87,0.20)"/><text x="860.4" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="163.2" lengthAdjust="spacingAndGlyphs">software</text></g>
+<g class="k" style="animation-name:k38" data-l="1"><rect x="1031.6" y="553" width="91.6" height="46" rx="6" fill="rgba(126,231,135,0.20)"/><text x="1057.0" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="61.2" lengthAdjust="spacingAndGlyphs">and</text></g>
+<g class="k" style="animation-name:k39" data-l="1"><rect x="56" y="613" width="193.6" height="46" rx="6" fill="rgba(210,168,255,0.22)"/><text x="81.4" y="647" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="163.2" lengthAdjust="spacingAndGlyphs">robotics</text></g>
+<g class="k" style="animation-name:k40" data-l="1"><rect x="252.6" y="613" width="30.4" height="46" rx="6" fill="rgba(255,123,114,0.20)"/><text x="257.6" y="647" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="20.4" lengthAdjust="spacingAndGlyphs">.</text></g>
+<g class="k" style="animation-name:k41" data-c="1"><rect x="58" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k42" data-c="1"><rect x="231.2" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k43" data-c="1"><rect x="407.4" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k44" data-c="1"><rect x="583.5999999999999" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k45" data-c="1"><rect x="616.9999999999999" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k46" data-c="1"><rect x="833.9999999999999" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k47" data-c="1"><rect x="1030.6" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k48" data-c="1"><rect x="1125.1999999999998" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k49" data-c="1"><rect x="251.6" y="617" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k50" data-c="1"><g class="blink"><rect x="288.0" y="617" width="18" height="38" fill="#FFA657"/></g></g>
+<g class="k" style="animation-name:k51" data-l="2"><rect x="56" y="553" width="91.6" height="46" rx="6" fill="rgba(126,231,135,0.20)"/><text x="61.0" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="81.6" lengthAdjust="spacingAndGlyphs">From</text></g>
+<g class="k" style="animation-name:k52" data-l="2"><rect x="150.6" y="553" width="71.19999999999999" height="46" rx="6" fill="rgba(210,168,255,0.22)"/><text x="176.0" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="40.8" lengthAdjust="spacingAndGlyphs">an</text></g>
+<g class="k" style="animation-name:k53" data-l="2"><rect x="224.79999999999998" y="553" width="112.0" height="46" rx="6" fill="rgba(255,123,114,0.20)"/><text x="250.2" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="81.6" lengthAdjust="spacingAndGlyphs">idea</text></g>
+<g class="k" style="animation-name:k54" data-l="2"><rect x="339.79999999999995" y="553" width="71.19999999999999" height="46" rx="6" fill="rgba(121,192,255,0.20)"/><text x="365.2" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="40.8" lengthAdjust="spacingAndGlyphs">to</text></g>
+<g class="k" style="animation-name:k55" data-l="2"><rect x="413.99999999999994" y="553" width="50.8" height="46" rx="6" fill="rgba(255,166,87,0.20)"/><text x="439.4" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="20.4" lengthAdjust="spacingAndGlyphs">a</text></g>
+<g class="k" style="animation-name:k56" data-l="2"><rect x="467.79999999999995" y="553" width="173.2" height="46" rx="6" fill="rgba(126,231,135,0.20)"/><text x="493.2" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="142.8" lengthAdjust="spacingAndGlyphs">working</text></g>
+<g class="k" style="animation-name:k57" data-l="2"><rect x="644.0" y="553" width="214.0" height="46" rx="6" fill="rgba(210,168,255,0.22)"/><text x="669.4" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="183.6" lengthAdjust="spacingAndGlyphs">prototype</text></g>
+<g class="k" style="animation-name:k58" data-l="2"><rect x="861.0" y="553" width="30.4" height="46" rx="6" fill="rgba(255,123,114,0.20)"/><text x="866.0" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="20.4" lengthAdjust="spacingAndGlyphs">,</text></g>
+<g class="k" style="animation-name:k59" data-l="2"><rect x="894.4" y="553" width="91.6" height="46" rx="6" fill="rgba(121,192,255,0.20)"/><text x="919.8" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="61.2" lengthAdjust="spacingAndGlyphs">one</text></g>
+<g class="k" style="animation-name:k60" data-l="2"><rect x="56" y="613" width="234.39999999999998" height="46" rx="6" fill="rgba(255,166,87,0.20)"/><text x="81.4" y="647" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="204.0" lengthAdjust="spacingAndGlyphs">experiment</text></g>
+<g class="k" style="animation-name:k61" data-l="2"><rect x="293.4" y="613" width="71.19999999999999" height="46" rx="6" fill="rgba(126,231,135,0.20)"/><text x="318.8" y="647" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="40.8" lengthAdjust="spacingAndGlyphs">at</text></g>
+<g class="k" style="animation-name:k62" data-l="2"><rect x="367.59999999999997" y="613" width="50.8" height="46" rx="6" fill="rgba(210,168,255,0.22)"/><text x="393.0" y="647" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="20.4" lengthAdjust="spacingAndGlyphs">a</text></g>
+<g class="k" style="animation-name:k63" data-l="2"><rect x="421.4" y="613" width="112.0" height="46" rx="6" fill="rgba(255,123,114,0.20)"/><text x="446.8" y="647" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="81.6" lengthAdjust="spacingAndGlyphs">time</text></g>
+<g class="k" style="animation-name:k64" data-l="2"><rect x="536.4" y="613" width="30.4" height="46" rx="6" fill="rgba(121,192,255,0.20)"/><text x="541.4" y="647" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="20.4" lengthAdjust="spacingAndGlyphs">.</text></g>
+<g class="k" style="animation-name:k65" data-c="2"><rect x="58" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k66" data-c="2"><rect x="149.6" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k67" data-c="2"><rect x="223.79999999999998" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k68" data-c="2"><rect x="338.79999999999995" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k69" data-c="2"><rect x="412.99999999999994" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k70" data-c="2"><rect x="466.79999999999995" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k71" data-c="2"><rect x="643.0" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k72" data-c="2"><rect x="860.0" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k73" data-c="2"><rect x="893.4" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k74" data-c="2"><rect x="988.0" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k75" data-c="2"><rect x="292.4" y="617" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k76" data-c="2"><rect x="366.59999999999997" y="617" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k77" data-c="2"><rect x="420.4" y="617" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k78" data-c="2"><rect x="535.4" y="617" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k79" data-c="2"><g class="blink"><rect x="571.8" y="617" width="18" height="38" fill="#FFA657"/></g></g>
+<g class="k" style="animation-name:k80" data-l="3"><rect x="56" y="553" width="132.39999999999998" height="46" rx="6" fill="rgba(210,168,255,0.22)"/><text x="61.0" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="122.4" lengthAdjust="spacingAndGlyphs">Public</text></g>
+<g class="k" style="animation-name:k81" data-l="3"><rect x="191.39999999999998" y="553" width="132.39999999999998" height="46" rx="6" fill="rgba(255,123,114,0.20)"/><text x="216.8" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="102.0" lengthAdjust="spacingAndGlyphs">demos</text></g>
+<g class="k" style="animation-name:k82" data-l="3"><rect x="326.79999999999995" y="553" width="91.6" height="46" rx="6" fill="rgba(121,192,255,0.20)"/><text x="352.2" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="61.2" lengthAdjust="spacingAndGlyphs">are</text></g>
+<g class="k" style="animation-name:k83" data-l="3"><rect x="421.4" y="553" width="71.19999999999999" height="46" rx="6" fill="rgba(255,166,87,0.20)"/><text x="446.8" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="40.8" lengthAdjust="spacingAndGlyphs">on</text></g>
+<g class="k" style="animation-name:k84" data-l="3"><rect x="495.59999999999997" y="553" width="91.6" height="46" rx="6" fill="rgba(126,231,135,0.20)"/><text x="521.0" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="61.2" lengthAdjust="spacingAndGlyphs">the</text></g>
+<g class="k" style="animation-name:k85" data-l="3"><rect x="590.1999999999999" y="553" width="91.6" height="46" rx="6" fill="rgba(210,168,255,0.22)"/><text x="615.6" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="61.2" lengthAdjust="spacingAndGlyphs">way</text></g>
+<g class="k" style="animation-name:k86" data-l="3"><rect x="684.8" y="553" width="30.4" height="46" rx="6" fill="rgba(255,123,114,0.20)"/><text x="689.8" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="20.4" lengthAdjust="spacingAndGlyphs">.</text></g>
+<g class="k" style="animation-name:k87" data-l="3"><rect x="718.1999999999999" y="553" width="112.0" height="46" rx="6" fill="rgba(121,192,255,0.20)"/><text x="743.6" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="81.6" lengthAdjust="spacingAndGlyphs">More</text></g>
+<g class="k" style="animation-name:k88" data-l="3"><rect x="833.1999999999999" y="553" width="152.79999999999998" height="46" rx="6" fill="rgba(255,166,87,0.20)"/><text x="858.6" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="122.4" lengthAdjust="spacingAndGlyphs">things</text></g>
+<g class="k" style="animation-name:k89" data-l="3"><rect x="988.9999999999999" y="553" width="71.19999999999999" height="46" rx="6" fill="rgba(126,231,135,0.20)"/><text x="1014.4" y="587" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="40.8" lengthAdjust="spacingAndGlyphs">to</text></g>
+<g class="k" style="animation-name:k90" data-l="3"><rect x="56" y="613" width="91.6" height="46" rx="6" fill="rgba(210,168,255,0.22)"/><text x="81.4" y="647" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="61.2" lengthAdjust="spacingAndGlyphs">try</text></g>
+<g class="k" style="animation-name:k91" data-l="3"><rect x="150.6" y="613" width="112.0" height="46" rx="6" fill="rgba(255,123,114,0.20)"/><text x="176.0" y="647" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="81.6" lengthAdjust="spacingAndGlyphs">soon</text></g>
+<g class="k" style="animation-name:k92" data-l="3"><rect x="265.6" y="613" width="30.4" height="46" rx="6" fill="rgba(121,192,255,0.20)"/><text x="270.6" y="647" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="34" font-weight="500" fill="#E6EDF3" textLength="20.4" lengthAdjust="spacingAndGlyphs">.</text></g>
+<g class="k" style="animation-name:k93" data-c="3"><rect x="58" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k94" data-c="3"><rect x="190.39999999999998" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k95" data-c="3"><rect x="325.79999999999995" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k96" data-c="3"><rect x="420.4" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k97" data-c="3"><rect x="494.59999999999997" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k98" data-c="3"><rect x="589.1999999999999" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k99" data-c="3"><rect x="683.8" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k100" data-c="3"><rect x="717.1999999999999" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k101" data-c="3"><rect x="832.1999999999999" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k102" data-c="3"><rect x="987.9999999999999" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k103" data-c="3"><rect x="1062.1999999999998" y="557" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k104" data-c="3"><rect x="149.6" y="617" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k105" data-c="3"><rect x="264.6" y="617" width="18" height="38" fill="#FFA657"/></g>
+<g class="k" style="animation-name:k106" data-c="3"><g class="blink"><rect x="301.0" y="617" width="18" height="38" fill="#FFA657"/></g></g>
+<line x1="56" y1="685" x2="1144" y2="685" stroke="#30363D" stroke-dasharray="5 5"/>
+<text x="56" y="717" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="14" fill="#8B949E">art: seed 2026-10-22 · redrawn daily</text>
+<text x="1144" y="717" font-family="ui-monospace, SFMono-Regular, &#x27;SF Mono&#x27;, Menlo, Consolas, &#x27;Liberation Mono&#x27;, monospace" font-size="14" fill="#8B949E" text-anchor="end">temperature 0.9 · top_p curious · stop_sequence: never</text>
+<rect x="0.5" y="0.5" width="1199" height="742" rx="16" fill="none" stroke="#30363D"/>
+</svg>

@@ -1,0 +1,44 @@
+{
+  "name": "Kaze",
+  "tagline": "creative developer · software, AI & robotics",
+  "intros": [
+    "Hi, I'm {name}. I build curious things with code and AI.",
+    "Computer science student, exploring software and robotics.",
+    "From an idea to a working prototype, one experiment at a time.",
+    "Public demos are on the way. More things to try soon."
+  ],
+  "sampling_line": "temperature 0.9 · top_p curious · stop_sequence: never",
+  "model_card": [
+    [
+      "Model",
+      "{name}, computer science student"
+    ],
+    [
+      "Architecture",
+      "curiosity → prototype → iterate"
+    ],
+    [
+      "Intended use",
+      "Useful software, playful interactions, creative experiments"
+    ],
+    [
+      "Training data",
+      "Projects, documentation, trial and error"
+    ],
+    [
+      "Toolchain",
+      "Code, AI collaboration, and whatever the idea needs"
+    ],
+    [
+      "Known limitations",
+      "Still learning; always iterating"
+    ],
+    [
+      "Fine-tuning on",
+      "Software, AI tools, and robotics"
+    ]
+  ],
+  "projects": [],
+  "system_prompt": "Building things I want to exist. Public project demos are on the way.",
+  "contact": []
+}
