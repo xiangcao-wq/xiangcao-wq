@@ -2,7 +2,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img src="assets/banner-light.svg" width="100%" alt="Kaze. Hi, I&#x27;m Kaze. I build curious things with code and AI."></picture>
 
-## Model card <sub><code>rev. 2026.10</code></sub>
+## Model card <sub><code>rev. 2026.11</code></sub>
 
 <table>
 <tr><td><code>Model</code></td><td>Kaze, computer science student</td></tr>
